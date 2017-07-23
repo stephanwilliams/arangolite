@@ -14,8 +14,8 @@ import (
 
 	"strings"
 
-	"github.com/solher/arangolite"
-	"github.com/solher/arangolite/requests"
+	"github.com/stephanwilliams/arangolite"
+	"github.com/stephanwilliams/arangolite/requests"
 )
 
 // TestConnect runs tests on the database Connect method.

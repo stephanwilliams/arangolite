@@ -5,7 +5,7 @@ import (
 
 	"strings"
 
-	"github.com/solher/arangolite/requests"
+	"github.com/stephanwilliams/arangolite/requests"
 )
 
 type aqlParams struct {

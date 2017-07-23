@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/solher/arangolite/requests"
+	"github.com/stephanwilliams/arangolite/requests"
 )
 
 type authentication interface {

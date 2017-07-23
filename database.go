@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/solher/arangolite/requests"
+	"github.com/stephanwilliams/arangolite/requests"
 )
 
 // Option sets an option for the database connection.
